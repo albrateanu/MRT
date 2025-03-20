@@ -1,4 +1,6 @@
-# MRT
+# MRT: Multi-stage Residual Transformer
+
+##### Note: We do not provide architecture and training code. They will be released at a later date, upon an extended work being realised on MRT.
 
 ### Environment Setup
 
